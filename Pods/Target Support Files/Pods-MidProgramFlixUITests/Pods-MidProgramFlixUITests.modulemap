@@ -1,0 +1,6 @@
+framework module Pods_MidProgramFlixUITests {
+  umbrella header "Pods-MidProgramFlixUITests-umbrella.h"
+
+  export *
+  module * { export * }
+}
